@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Arduino build outputs
+*.hex
+*.elf
+*.o
+*.d
+*.map
+
+# Local editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.bak
+*.tmp
