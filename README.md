@@ -114,14 +114,13 @@ arduino-smart-parking-system/
 ├── src/
 │   └── SmartParkingSystem/
 │       └── SmartParkingSystem.ino
-├── docs/
-│   ├── Smart-Parking-System-Presentation.pdf
-│   ├── wiring-diagram.png
-│   ├── system-flowchart.png
-│   ├── prototype-photos.png
-│   └── implementation-notes.md
-└── media/
-    └── README.md
+└──  docs/
+   ├── Smart-Parking-System-Presentation.pdf
+   ├── wiring-diagram.png
+   ├── system-flowchart.png
+   ├── prototype-photos.png
+   └── implementation-notes.md
+
 ```
 
 ## Contributors
