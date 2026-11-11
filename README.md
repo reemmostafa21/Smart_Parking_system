@@ -4,11 +4,6 @@ An Arduino Uno-based parking automation prototype that uses two IR sensors to de
 
 > **Project scope:** This repository documents an educational hardware prototype. It is not a production parking-management or vehicle-safety system.
 
-## Demonstration
-
-**Demo video:** _Add the shareable video link here before publishing._
-
-See [`media/README.md`](media/README.md) for suggestions on hosting the video.
 
 ## Project overview
 
